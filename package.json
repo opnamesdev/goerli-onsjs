@@ -1,6 +1,6 @@
 {
   "name": "@opdomains/onsjs",
-  "version": "3.0.0-alpha.378",
+  "version": "3.0.0-alpha.5",
   "description": "ONS javascript library for contract interaction",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.mjs",
@@ -47,7 +47,7 @@
     "dist/",
     "!src/tests"
   ],
-  "repository": "git@github.com:pnsdomains/pns-sdk-v3.git",
+  "repository": "git@github.com:onsdomains/ons-sdk-v3.git",
   "author": "khacsinh.vu.16091994@gmail.com",
   "license": "MIT",
   "scripts": {

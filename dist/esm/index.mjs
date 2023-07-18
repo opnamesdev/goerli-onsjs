@@ -9,6 +9,7 @@ var graphURIEndpoints = {
   3: "https://api.thegraph.com/subgraphs/name/ensdomains/ensropsten",
   4: "https://api.thegraph.com/subgraphs/name/ensdomains/ensrinkeby",
   5: "https://api.thegraph.com/subgraphs/name/opnamesdev/ons-goerli",
+  10: "https://api.thegraph.com/subgraphs/name/opnamesdev/ons-op",
   420: "https://api.thegraph.com/subgraphs/name/opnames/onsgoerli"
 };
 var ONS = class {
